@@ -30,4 +30,3 @@ while True:
     page_num += 1
 
 csv_file.close()
-print('Scraping completed and results saved in trustedshops_companies.csv
